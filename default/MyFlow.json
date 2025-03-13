@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1741838946407,
+    "description" : "",
+    "identifier" : "MyFlow",
+    "lastModifiedTimestamp" : 1741838946407,
+    "name" : "MyFlow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
